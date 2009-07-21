@@ -314,6 +314,7 @@ This method updates the index files from the CPAN.
 
 sub _fixed_mirrors {
   qw(
+    authors/00whois.xml
     authors/01mailrc.txt.gz
     modules/02packages.details.txt.gz
     modules/03modlist.data.gz

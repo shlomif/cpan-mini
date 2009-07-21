@@ -1,5 +1,8 @@
 Revision history for CPAN-Mini
 
+          add authors/00whois.xml to the list of files to download. (SHLOMIF)
+          00whois.xml is useful and is used by CPANHQ and other projects.
+          
 0.576     2009-01-16
           add repo to metadata
 
